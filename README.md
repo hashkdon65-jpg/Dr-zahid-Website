@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Dr. Zahid Medical & Dental Clinic is a modern, responsive web application built for the official platform of the clinic in Karachi.
 
-# Run and deploy your AI Studio app
+The website features a specialized service showcase for dental and general medical treatments, an optimized UI that works across all mobile and desktop devices, and a built-in patient inquiry section for appointments and contact.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/2659f197-b028-4d5c-9e5a-d2f373f9ecab
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Built using React, TypeScript, Tailwind CSS, and Vite, the code is structured cleanly. The application source code, pages, and components live in the /src folder, while images and clinic media are stored under /assets. A configuration template for required environment variables is available in the .env.example file.
