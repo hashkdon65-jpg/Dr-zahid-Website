@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Zahid Medicare & Dental Specialists",
+  "description": "A premium, modern, and professional website for Dr. Zahid Medicare & Dental Specialists in DHA Phase 5, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
